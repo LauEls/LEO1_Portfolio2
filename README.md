@@ -1,5 +1,6 @@
 # LEO1_Portfolio2
 Assignment 2 for LEO1 Course at SDU
+Group 26: Laurenz Elstner, Alberto Sartori, Antoni Benavent
 
 Install LXC:
 ```
@@ -98,6 +99,8 @@ We exit the first container and create a secound one similarly but without the w
 $ lxc-create -n C2 -t download -- -d alpine -r 3.4 -a armh
 $ lxc-start -n C2
 $ lxc-attach -n C2
+```
+```
 #/ apk add socat
 #/ apk add nano
 ```
