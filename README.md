@@ -1,5 +1,6 @@
 # LEO1_Portfolio2
 Assignment 2 for LEO1 Course at SDU
+
 Group 26: Laurenz Elstner, Alberto Sartori, Antoni Benavent
 
 Install LXC:
